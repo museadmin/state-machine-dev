@@ -1,4 +1,4 @@
-class EchoFlagToSTDOUT
+class EchoFlagToStdout
 
   attr_accessor :flag, :phase, :state, :payload
 
